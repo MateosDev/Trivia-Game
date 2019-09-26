@@ -1,0 +1,11 @@
+.bg-container { 
+    background-image:url(../images/pulp-fiction.jpg);
+    background-size: cover;   
+    padding-left: 20px; 
+  }
+
+  #smaller-container {
+      background-color:black;
+      color:yellow;
+      
+  }
