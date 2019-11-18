@@ -1,11 +1,23 @@
-.bg-container { 
-    background-image:url(../images/pulp-fiction.jpg);
-    background-size: cover;   
-    padding-left: 20px; 
-  }
+body{
+	background-image: url(https://www.tokkoro.com/picsup/2827693-pulp-fiction-uma-thurman-digital-art-mia-wallace___abstract-wallpapers.jpg);
+	text-align: center;
+    justify-content: center;
+    background-repeat:no-repeat;
 
-  #smaller-container {
-      background-color:black;
-      color:yellow;
-      
+   background-size:cover;
+
+}
+
+.text-muted{
+	color: Red;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+.jumbotron {
+    opacity: 0.5;
   }
